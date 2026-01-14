@@ -406,4 +406,7 @@ curl "http://localhost:9080/messages?page=0&size=10"
 curl "http://localhost:9080/messages?search=byRecipient&value=alice@test.com"
 ```
 
+<img width="1552" height="487" alt="image" src="https://github.com/user-attachments/assets/f78ff0db-feb2-4c85-abfe-fb3f7fa67ee9" />
+
+
 Made with ❤️ by Maor Mordo
