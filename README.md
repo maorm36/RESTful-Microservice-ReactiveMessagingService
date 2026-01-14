@@ -58,4 +58,9 @@ A message is represented by the following JSON structure:
   }
 }
 
+---
+
+
+
+
 Made with ❤️ by Maor Mordo
